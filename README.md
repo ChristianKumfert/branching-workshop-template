@@ -1,2 +1,1 @@
-# branching-workshop-template
-Template for the Branching Workshop Classwork!
+# das ist eine Funktion die nimmt grams und return kilograms
